@@ -7,5 +7,3 @@ export const renderMoviesToDOM = (movieHTML) => {
        console.error('Could not find element with id "movie-list"');
    }
 };
-
-export {renderMoviesToDom}
